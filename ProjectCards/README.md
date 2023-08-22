@@ -1,46 +1,44 @@
 # Step Project "Cards"
 
-### Cтраницa, на которой Секретарша сможет создавать карточки, описывающие запланированные визиты к врачам.
+### A page where the Secretary will be able to create cards describing scheduled visits to doctors.
 
-https://github.com/KarinaIvaschenko/ProjectCards
+#### We used:
 
-#### При написании проекта мы использовали:
-
--   Запросы на сервер (Fetch);
--   Классы и наследование классов;
+-   Requests to the server (Fetch);
+-   Classes and class inheritance;
 -   Bootstrap;
--   В командной работе использовали Trello;
+-   Teamwork used Trello;
 -   ES6 modules;
 
-### Состав команды
+### Command structure
 
-1. Студент №1 Иващенко Карина
-2. Студент №2 Дмитрий Волков
-3. Студент №3 Стадниченко Лера
+1. Student No. 1 Ivashchenko Karina
+2. Student №2 Dmitry Volkov
+3. Student №3 Stadnichenko Lera
 
-### Выполненные задания
+### Completed tasks
 
-1. Иващенко Карина:
+1. Ivashchenko Karina:
 
--   HTML;
--   Bootstrap;
--   Создание структуры проекта (файлы и папки);
--   Класс для обработки всех запросов - Request (использовался Fetch API);
--   Создание репозитория и доски в Trello;
--   Описание логики проекта;
--   Работа с Local Storage и токеном;
--   Фильтр для карточек по разным параметрам;
--   Файл README;
--   Файл .gitignore;
--   Функция загрузки карточек при запуске сайта/входе в профиль;
+- HTML;
+- Bootstrap;
+- Creation of the project structure (files and folders);
+- Class for processing all requests - Request (used by Fetch API);
+- Creation of a repository and board in Trello;
+- Description of the project logic;
+- Work with Local Storage and token;
+- Filter for cards by different parameters;
+- README file;
+- The .gitignore file;
+- The function of loading cards when starting the site / entering the profile;
 
-2. Дмитрий Волков:
+2. Dmitry Volkov:
 
--   Класс для модального окна (для подтверждения удаления карточки) ModalConfirmDelete;
--   Классы FormLogin, FormVisit наследованые от класса Form;
--   Класс Form (создающий универсальную форму);
--   Класс для универсального модального окна Modal;
+- Class for the modal window (to confirm the deletion of the card) ModalConfirmDelete;
+- Classes FormLogin, FormVisit inherited from class Form;
+- Class Form (creating a universal form);
+- Class for the universal modal window Modal;
 
-3. Стадниченко Лера:
+3. Stadnichenko Lera:
 
--   Общий класс карточек CreateCards (описывающий общие для всех визитов к любому врачу поля и методы);
+- General class of cards CreateCards (describing fields and methods common for all visits to any doctor);
